@@ -87,15 +87,6 @@ finance-tracker/
 └── transactions.json        # Data file (created automatically)
 ```
 
-## Future Enhancements
-
-Potential features to add:
-- Monthly/yearly reports
-- Data visualization with charts
-- Export to CSV/Excel
-- Budget tracking and alerts
-- Multiple currency support
-- Web interface
 
 ## Contributing
 
