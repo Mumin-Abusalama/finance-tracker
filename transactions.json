@@ -1,0 +1,9 @@
+[
+    {
+        "Amount": 2300.0,
+        "Description": "Job paid",
+        "Date": "2025-09-13",
+        "Category": "Salary",
+        "Type": "income"
+    }
+]
